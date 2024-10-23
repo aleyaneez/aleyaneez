@@ -67,3 +67,7 @@ Here are some of the technologies and tools I work with:
 ---
 
 <p align="center">Feel free to explore my repositories!</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alejandro-yanez-oyarce&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
+
