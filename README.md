@@ -57,7 +57,7 @@ Here are some of the technologies and tools I work with:
   <p>
     <strong>🌐 Connect with Me</strong>
   </p>
-  <div style="margin-top: 16px;">
+  <div>
     <a href="https://www.linkedin.com/in/alejandro-yanez-oyarce" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
