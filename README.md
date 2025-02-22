@@ -12,7 +12,7 @@ I'm currently pursuing a degree that combines **Computer Science** and **Softwar
 
 - 🎯 **Goal:** Build a career as a **Data Scientist**, creating impactful, data-driven solutions.  
 - 🔍 Constantly learning new tools in **Python** and refining my skills in **ML/DL models**.  
-- 🌐 Additionally, I’m expanding my expertise in **Web Development**, focusing on **MERN** or **PERN** stacks.  
+- 🌐 Additionally, I’m expanding my expertise in **Web Development**.
 
 ---
 
@@ -51,7 +51,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📊 What I'm Currently Working On
 - Learning and building predictive models using **Machine Learning**   
-- Exploring new applications for **MERN Stack** projects.
+- Exploring **web-oriented** applications.
 
 ---
 
